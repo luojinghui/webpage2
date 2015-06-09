@@ -85,6 +85,10 @@ ul,li {
     margin-top: 52px;
     margin-bottom: 43px;
 }
+#middle tubiao{
+    height:5;
+    width:4;
+}
 #middle li {
     display: inline-block;
     height: 157px;
@@ -111,7 +115,7 @@ ul,li {
     padding-left: 9px;
 }
 #down_context .news .news_p{
-    background:#4697c4;
+    background:#f3f3f3;
     width: 292px;
     height: 225px;
 }
@@ -119,17 +123,51 @@ ul,li {
     width: 497px;
     height: 348px;
     float: left;
-    background-color:#654321;
+    background-color:#f3f3f3;
 }
 #down_context .right{
     width: 244px;
     height: 349px;
     float: left;
+    margin-left: 6px;
     background-color:#123456;
 }
 #down_context .title{
-    background-color:red;
+    background-color:#f3f3f3;
     width: 169px;
     height: 61px;
+    float: left;
+}
+#down_context .btn{
+    margin-top: 32px;
     float: right;
+    height: 29px;
+    width: 84px;
+    display: inline-block;
+    background: red;
+}
+#yang{
+    width: 270px;
+    height: 275px;
+
+}
+#shao{
+    width: 270px;
+    height: 275px;
+}
+#i{
+    width: 47px;
+    margin: 35px;
+}
+#span{
+    margin: 25px;
+}
+#down_context .second{
+    margin-top: 70px;
+}
+#down_context .third{
+    margin-top: 34px;
+}
+#down_context .list{
+    margin:3px;
 }
