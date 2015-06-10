@@ -3,7 +3,7 @@ body{
     padding:0;
 }
 header {
-    height:64px;
+    height:67px;
     background-color:#cc0001;
     line-height:67px;
 }
@@ -55,8 +55,8 @@ ul,li {
     position: relative;
 }
 #gallery .middlepic{
-    width: 1500px;
-    height: 434px;
+    width: 1501px;
+    height: 437px;
 }
 
 #gallery .pics {
